@@ -1,0 +1,2 @@
+# GaleriaPolaroid
+Galería Polaroid Responsive
